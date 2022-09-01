@@ -1,6 +1,6 @@
 # Trips Backend
 
-This project was written to test Rust with Actix, Diesel v2 and MongoDB. It implements a backend for a simple web app.
+This project was written to test Rust with Actix, Diesel v2 with SQLite. It implements a backend for a simple web app.
 
 ## Architecture
 
