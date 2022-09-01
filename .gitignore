@@ -1,0 +1,8 @@
+# IDE specific
+/.vscode/
+/.idea/
+/trips-backend.iml
+
+# Build target
+/target
+
