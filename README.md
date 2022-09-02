@@ -12,3 +12,9 @@ Couple points here:
 
 - It uses Weather API as the Weather Service.
 - It's all monolithic, since the point of this project is not for real world usage.
+
+## Data model
+
+The current data models are as follows:
+
+![model](./res/models.drawio.png)
