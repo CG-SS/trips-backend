@@ -6,3 +6,9 @@
 # Build target
 /target
 
+# Local env vars
+/.env
+
+# Diesel generated SQLite DB
+/diesel_demo.sqlite
+
